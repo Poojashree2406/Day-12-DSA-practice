@@ -1,1 +1,17 @@
+test case 1:
+Input
+s =
+"abccccdd"
+Output
+7
+Expected
+7
 
+test case 2:
+Input
+s =
+"a"
+Output
+1
+Expected
+1
