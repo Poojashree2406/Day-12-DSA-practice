@@ -14,7 +14,7 @@ This repository contains Java and Python solutions for selected LeetCode problem
 
 1. LeetCode 290 – Word Pattern
 
-File: Solution-01-290.py
+File: Solution-01-290.python
 
 Problem Description
 
