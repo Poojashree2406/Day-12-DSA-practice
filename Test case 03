@@ -1,1 +1,18 @@
+test case 1:
 
+Input
+s =
+"leetcode"
+Output
+0
+Expected
+0
+
+test case 2:
+Input
+s =
+"loveleetcode"
+Output
+2
+Expected
+2
